@@ -68,7 +68,7 @@ body {
 }
 .starts {
     background-color: rgb(184, 184, 184);
-    padding: 12px 96px;
+    padding: 21px 96px;
     font-size: 36px;
     border-radius: 24px;
     font-weight: bold;
@@ -83,7 +83,7 @@ body {
     background-color: white;
 }
 .projects {
-    padding: 10px 72px;
+    padding: 18px 72px;
     font-size: 28px;
     border-radius: 20px;
     border: 1px solid rgb(184, 184, 184);
