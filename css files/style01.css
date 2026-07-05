@@ -61,7 +61,7 @@ body {
     flex: 1;
     padding: 12px 24px;
     border-radius: 16px;
-    width: 500px;
+    width: 400px;
     border: none;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     justify-self: center;
@@ -80,7 +80,7 @@ body {
     flex: 1;
     padding: 10px 21px;
     border-radius: 13px;
-    width: 350px;
+    width: 200px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     justify-self: center;
     text-align: center;
